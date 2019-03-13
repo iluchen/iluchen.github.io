@@ -103,7 +103,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: iluchen
-    repo: blog-comments
+    repo: iluchen.github.io
     clientID: 77625e91841683ba9f10
     clientSecret: 9936420fb7677aa3ac88cd1ea5e08400a594f560
 # 在使用其它评论组件时可点击显示 Disqus
