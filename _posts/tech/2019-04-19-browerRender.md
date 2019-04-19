@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [转]浏览器的渲染过程及原理
+title: 【转】浏览器的渲染过程及原理
 categories: Tech
 description: 转自 掘金 https://juejin.im/entry/59e1d31f51882578c3411c77
 keywords: render, browser
