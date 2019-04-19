@@ -1,9 +1,9 @@
 ---
 layout: post
 title: [转]浏览器的渲染过程及原理
-categories: [Tech]
+categories: Tech
 description: 转自 掘金 https://juejin.im/entry/59e1d31f51882578c3411c77
-keywords: 渲染, 浏览器
+keywords: render, browser
 ---
 
 ## 浏览器渲染页面的过程
