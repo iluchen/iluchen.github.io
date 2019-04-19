@@ -6,6 +6,8 @@ description: 转自 掘金 https://juejin.im/entry/59e1d31f51882578c3411c77
 keywords: render, browser
 ---
 
+> 转自 掘金 https://juejin.im/entry/59e1d31f51882578c3411c77
+
 ## 浏览器渲染页面的过程
 
 从耗时的角度，浏览器请求、加载、渲染一个页面，时间花在下面五件事情上：
